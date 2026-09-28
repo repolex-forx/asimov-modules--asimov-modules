@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "asimov-modules",
+  "repo": "asimov-modules",
+  "versions": [
+    {
+      "commit": "aee01ed4ed38f18c082bfe60fe496b83593a370f",
+      "parsed_at": "2026-09-28T07:26:07.130833+00:00",
+      "tag": "master",
+      "filetree": "filetree/aee01ed4ed38f18c082bfe60fe496b83593a370f.nq.gz",
+      "blobs": [
+        "blob/910431dd729d2ff14f841d19bfdebf4eedc24215.nq.gz",
+        "blob/bb67c988519445888ae76a7c7c4041de9dee75cf.nq.gz",
+        "blob/eba4cad5b53be16b54cc79c58f1f768019777e44.nq.gz",
+        "blob/884954d1ff6f6c89e76cf1ac03ab3d8adbee3410.nq.gz",
+        "blob/efb98088164f5786b17e83ed384971fc3c74f93c.nq.gz",
+        "blob/7ee134fcc3dc51b77deaf3b09d9190715c17ebe6.nq.gz",
+        "blob/fc92c1f6096725b77c45fd50f25c387a228b622b.nq.gz",
+        "blob/e3e57a8ce4ccbf74759a6df8fa4a3980ff1c9209.nq.gz",
+        "blob/c7af98591eb6c18296be750e48a7b3b27822ba5f.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/baa604443559156602ea097e44f6f77e588b3040.nq.gz",
+        "blob/e57a9f155af584334d3ac6658af548f2a7a4e9e6.nq.gz",
+        "blob/cf99e1c5ab2b9a0bce05b553f521f3d499c878a4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
